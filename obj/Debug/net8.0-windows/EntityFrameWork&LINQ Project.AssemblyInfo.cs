@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFrameWork&LINQ Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0374ba6ed89a3d2dc63df7d54e87b4a38c341c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65393fb4c9b34f2a23b980224c1160292390cc34")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFrameWork&LINQ Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFrameWork&LINQ Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
